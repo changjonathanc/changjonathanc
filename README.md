@@ -4,7 +4,7 @@ Check out my personal website:
 
 **[jonathanc.net](https://jonathanc.net)**
 
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=cccntu)](https://jonathanc.net)
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=changjonathanc)](https://jonathanc.net)
 
 <!--
 **cccntu/cccntu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
